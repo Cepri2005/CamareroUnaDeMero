@@ -1,0 +1,64 @@
+<platos>
+<pizzas nombre="Margherita" precio="8.95€" descripcion="Pizza clásica italiana con salsa de tomate, queso mozzarella y albahaca fresca" caracteristicas="Crujiente por fuera, suave por dentro" kcal="700kcal">
+    <ingrediente nombre="🥖🥚🥬" />
+</pizzas>
+<pizzas nombre="Pepperoni" precio="6.95€" descripcion="Pizza con base de puré de garbanzos, tahini, aceite de oliva y especias" caracteristicas="Deliciosa combinación de sabores mediterráneos" kcal="450kcal">
+    <ingrediente nombre="🥚🥖🥩" />
+</pizzas>
+<pizzas nombre="Prosciutto" precio="7.95€" descripcion="Una pizza italiana clásica con salsa de tomate, queso mozzarella, prosciutto y albahaca fresca." caracteristicas="" kcal="250kcal">
+    <ingrediente nombre="🥚🥖🥩" />
+</pizzas>
+<pizzas nombre="Hawaiana" precio="6.50€" descripcion="Pizza con base de masa fina, salsa de tomate, jamón ibérico, piña y queso mozzarella" caracteristicas="Una combinación deliciosa y tropical" kcal="450kcal">
+    <ingrediente nombre="🥚🥖🥩" />
+</pizzas>
+<pizzas nombre="4 Formaggi" precio="8.50€" descripcion="Una pizza con salsa de tomate y una mezcla de cuatro quesos: mozzarella, gorgonzola, parmesano y queso de cabra." caracteristica="" kcal="420kcal">
+    <ingrediente nombre="🥚🥖" />
+</pizzas>
+<pizzas nombre="Napolitana" precio="8.50€" descripcion="Pizza con salsa de tomate, auténtico queso mozzarella de búfala y tomates San Marzano" caracteristica="" kcal="420kcal">
+    <ingrediente nombre="🥚🥬🥖" />
+</pizzas>
+<pizzas nombre="Diávola" precio="8.50€" descripcion="Una pizza con salsa de tomate, queso mozzarella y picante salami picante," caracteristica="" kcal="420kcal">
+    <ingrediente nombre="🥚🥩🥖" />
+</pizzas>
+<pizzas nombre="Calzone" precio="8.50€" descripcion="Un delicioso paquete de masa de pizza relleno de salsa de tomate, queso mozzarella " caracteristica="" kcal="420kcal">
+    <ingrediente nombre="🥚🥬🥩🥖" />
+</pizzas>
+<pizzas nombre="Cuatro estaciones" precio="8.50€" descripcion="Una pizza dividida en cuatro secciones, cada una con sus ingredientes únicos que representan las estaciones del año" caracteristica="" kcal="420kcal">
+    <ingrediente nombre="🥚🥬🥩🥖" />
+</pizzas>
+<pizzas nombre="Funghi" precio="8.50€" descripcion="Una pizza con una generosa capa de salsa de tomate, queso mozzarella y una variedad de setas frescas" caracteristica="" kcal="420kcal">
+    <ingrediente nombre="🥚🥬🥖" />
+</pizzas>
+    <!-- pasta -->
+<pasta nombre="Penne boloñesa" precio="5.50€" descripcion="Penne boloñesa: pasta con salsa de carne, tomate y hierbas, cubierta con queso parmesano" caracteristica="" kcal="500kcal">
+    <ingrediente nombre="🥚🥩" />
+</pasta>
+    <pasta nombre="Penne all'arrabbiata" precio="7.50€" descripcion="Penne all'arrabbiata: una pasta picante con salsa de tomate, ajo, guindilla y aceite de oliva" caracteristica="" kcal="600kcal">
+    <ingrediente nombre="🥚🥖" />
+</pasta>
+    <pasta nombre="Spaghetti alla carbonara" precio="5.50€" descripcion="Spaghetti alla carbonara: una pasta cremosa con huevos, panceta, queso parmesano y pimienta negra" caracteristica="" kcal="850kcal">
+    <ingrediente nombre="🥚🥩" />
+</pasta>
+<pasta nombre="Tagliatelle al pesto" precio="5.50€" descripcion="Tagliatelle al pesto: pasta fresca con una salsa de pesto genovés, hecha con albahaca fresca, piñones, queso parmesano, ajo y aceite de oliva" caracteristica="" kcal="800kcal">
+    <ingrediente nombre="🥖🥬" />
+</pasta>
+    <pasta nombre="Ravioloni de ricotta y espinacas" precio="5.50€" descripcion="Pasta rellena con ricotta y espinacas" caracteristica="" kcal="700kcal">
+    <ingrediente nombre="🥚🥬" />
+</pasta>
+
+    <!-- Postres -->
+<postre nombre="Helado" precio="5.50€" descripcion="Una bola de helado" caracteristica="" kcal="800kcal">
+    <ingrediente nombre="🥚🥖" />
+</postre>
+<postre nombre="Brownie casero de chocolate y nueces" precio="5.50€" descripcion="Un postre indulgente hecho con chocolate y nueces, con una textura densa y un sabor rico" caracteristica="" kcal="800kcal">
+    <ingrediente nombre="🥚🥖" />
+</postre>
+    <postre nombre="Tiramisú" precio="3.50€" descripcion="Un postre italiano con capas de bizcocho empapado en café y crema de mascarpone, espolvoreado con cacao en polvo" caracteristica="" kcal="1000kcal">
+    <ingrediente nombre="🥚🥖" />
+</postre>
+<postre nombre="Tarta del día" precio="4.50€" descripcion="Una deliciosa opción fresca y sorprendente, con sabores y ingredientes que varían según la inspiración del chef" caracteristica="" kcal="1000kcal">
+</postre>
+<postre nombre="Café" precio="5.50€" descripcion="Una bebida caliente con granos de café y agua caliente" caracteristica="" kcal="800kcal">
+    <ingrediente nombre="🥚🥖" />
+</postre>
+</platos>
